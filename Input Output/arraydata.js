@@ -18,7 +18,6 @@ inp.on("close", () => {
   for (i=0;i<userInput.length;i++){
       str += userInput[i] + ''
   }
-
   console.log(str);
 
   //end-here
